@@ -50,9 +50,11 @@ Follow this precise sequence to execute the script successfully:
    * Launch *Final Fantasy X* through Steam.
    * Head to the northern section of the **Thunder Plains**.
    * Stand completely still directly in front of a **Qactuar (Cactuar) Stone**. Lightning will strike infinitely in front of it without you having to walk around.
+   * Activate the built-in **x2 game speed booster**.
+   
    <img width="632" height="307" alt="image" src="https://github.com/user-attachments/assets/7793b49f-c392-4e37-9b4b-fd6bfbfd8c02" />
    
-   * Activate the built-in **x2 game speed booster**.
+   
 
 4. **Execute the Script**
    Open your Linux terminal, navigate to the script directory, and execute:
