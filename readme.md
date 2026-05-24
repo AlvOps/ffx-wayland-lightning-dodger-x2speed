@@ -72,3 +72,8 @@ By default, the script watches a tiny 10x10 bounding box centered around the scr
 * **Where to aim:** Ensure the bounding box covers an area of the dark background scenery (such as the dark sky or ground) that turns bright white during a lightning strike. 
 * **What to avoid:** Avoid placing the box over the Qactuar Stone itself, UI elements, or character models to prevent false brightness positives.
 * **Adjusting resolution:** If your monitor resolution, game window positioning, or UI scale differs, simply update the GRIM_REGION geometry variable inside ffx_cactilio_hold.py with your custom coordinates.
+
+
+
+
+<img width="632" height="307" alt="image" src="https://github.com/user-attachments/assets/7793b49f-c392-4e37-9b4b-fd6bfbfd8c02" />
