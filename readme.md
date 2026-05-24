@@ -75,5 +75,3 @@ By default, the script watches a tiny **10x10** bounding box centered around the
 * **Adjusting resolution:** If your monitor resolution, game window positioning, or UI scale differ
 
 
-
-<img width="632" height="307" alt="image" src="https://github.com/user-attachments/assets/7793b49f-c392-4e37-9b4b-fd6bfbfd8c02" />
