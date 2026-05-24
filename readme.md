@@ -51,16 +51,14 @@ Follow this precise sequence to execute the script successfully:
    * Head to the northern section of the **Thunder Plains**.
    * Stand completely still directly in front of a **Qactuar (Cactuar) Stone**. Lightning will strike infinitely in front of it without you having to walk around.
    * Activate the built-in **x2 game speed booster**.
-   
+
    <img width="632" height="307" alt="image" src="https://github.com/user-attachments/assets/7793b49f-c392-4e37-9b4b-fd6bfbfd8c02" />
-   
-   
 
 4. **Execute the Script**
    Open your Linux terminal, navigate to the script directory, and execute:
    ```bash
-python3 ffx_cactilio_hold.py
-```
+   python3 ffx_cactilio_hold.py
+   
    > 💡 **Note:** If you haven't rebooted or logged out yet, you can use `sudo -E python3 ffx_cactilio_hold.py` as a temporary workaround.
 
 5. **Focus & Collect**
